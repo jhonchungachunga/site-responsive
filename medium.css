@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/04/2020, 09:00:53 PM
+    Author     : Jhon Chunga
+*/
+
+.display-medium{
+    display: inherit !important;
+}
+
+body {
+    font-family: Georgia;
+}

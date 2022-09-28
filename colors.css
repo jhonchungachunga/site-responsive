@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/04/2020, 08:37:13 PM
+    Author     : Jhon Chunga
+*/
+
+body{
+    color:#000;
+    word-break: break-all;
+}
+a, a:link, a:visited, a:active, a:hover{
+    color:#81c0c5;
+}
+header{
+    background-color: #f47e7d;
+}
+
+nav{
+   background-color:rgba(22,112,205,1);
+}
+section{
+     background-color:#e0c7ab; 
+}
+footer{
+    background-color:#fb8335;
+}

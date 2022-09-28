@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/04/2020, 08:52:29 PM
+    Author     : Jhon Chunga
+*/
+
+.display-great{
+     display: inherit !important;
+}
+
+h1,h2{
+    text-align: center;
+}
+header , footer , #wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    width: 100%;
+    max-width: 1500px
+}
+
+#main-nav{
+    float: left;
+    width: 20%;
+    max-width: 300px;
+}
+
+#main-section{
+    margin-left: 21%;
+    width: 79%;
+    max-width: 1200px;
+}
